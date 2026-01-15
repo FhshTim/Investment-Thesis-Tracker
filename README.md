@@ -15,7 +15,7 @@
 | **TSLA** | 自動駕駛 / 能源 | FSD 授權化與機器人運算規模 | 🟢 已完成 | 2025 Q3 | 2026/2 (Q4) | [./stocks/TSLA/](./stocks/TSLA/README.md) |
 | **NVDA** | 半導體 / AI 算力 | 數據中心轉變為 AI 工廠的持續性 | 🔴 待更新 |  -- | -- | [./stocks/NVDA/](./stocks/NVDA/) |
 | **GOOG** | 搜尋引擎 / 領先模型 | Gemini 整合生態與廣告毛利防禦 | 🔴 待更新 |  -- | -- | [./stocks/GOOG/](./stocks/GOOG/) |
-| **TSM** | 半導體 / 先進製程 | 先進製程出貨占比與 AI 晶片需求 | 🟢 已完成 |  2025 Q3 | 2026/1 (Q4) | [./stocks/TSM/](./stocks/TSM/README.md) |
+| **TSM** | 半導體 / 先進製程 | 先進製程出貨占比與 AI 晶片需求 | 🟢 已完成 |  2025 Q4 | 2026/4 (Q1) | [./stocks/TSM/](./stocks/TSM/README.md) |
 
 ## 🛠 練習工具箱
 * [**AI 提問範本 (Prompts)**](./gemini-prompt.md)：記錄解讀財報最有效的 AI 提問指令。
