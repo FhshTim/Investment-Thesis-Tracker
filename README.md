@@ -13,9 +13,10 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **PLTR** | AI 平台 / 國防基建 | TITAN 量產與邊緣運算護城河 | 🟢 已完成 | 2025 Q3 | 2026/2 (Q4) | [./stocks/PLTR/](./stocks/PLTR/README.md) |
 | **TSLA** | 自動駕駛 / 能源 | FSD 授權化與機器人運算規模 | 🟢 已完成 | 2025 Q4 | 2026/5 (Q1) | [./stocks/TSLA/](./stocks/TSLA/README.md) |
-| **NVDA** | 半導體 / AI 算力 | 數據中心轉變為 AI 工廠的持續性 | 🟢 已完成 |  2025 Q3 | 2026/2 (Q4) | [./stocks/NVDA/](./stocks/NVDA/README.md) |
-| **GOOG** | 搜尋引擎 / 領先模型 | Gemini 整合生態與廣告毛利防禦 | 🟢 已完成 |  2025 Q3 | 2026/2 (Q4) | [./stocks/GOOG/](./stocks/GOOG/README.md) |
-| **TSM** | 半導體 / 先進製程 | 先進製程出貨占比與 AI 晶片需求 | 🟢 已完成 |  2025 Q4 | 2026/4 (Q1) | [./stocks/TSM/](./stocks/TSM/README.md) |
+| **NVDA** | 半導體 / AI 算力 | 數據中心轉變為 AI 工廠的持續性 | 🟢 已完成 | 2025 Q3 | 2026/2 (Q4) | [./stocks/NVDA/](./stocks/NVDA/README.md) |
+| **GOOG** | 搜尋引擎 / 領先模型 | Gemini 整合生態與廣告毛利防禦 | 🟢 已完成 | 2025 Q3 | 2026/2 (Q4) | [./stocks/GOOG/](./stocks/GOOG/README.md) |
+| **TSM** | 半導體 / 先進製程 | 先進製程出貨占比與 AI 晶片需求 | 🟢 已完成 | 2025 Q4 | 2026/4 (Q1) | [./stocks/TSM/](./stocks/TSM/README.md) |
+| **AAPL** | 消費電子 / AI 服務 | Apple Intelligence 換機潮與服務毛利 | 🟢 已完成 | 2026 Q1 | 2026/4 (Q2) | [./stocks/AAPL/](./stocks/AAPL/README.md) |
 
 ## 🛠 練習工具箱
 * [**AI 提問範本 (Prompts)**](./gemini-prompt.md)：記錄解讀財報最有效的 AI 提問指令。
